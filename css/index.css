@@ -1,0 +1,12 @@
+div {
+    width:360px;
+    margin:auto;
+  }
+  
+  h1 {
+    text-align:center;
+  }
+  
+  p:nth-of-type(1) {
+    text-align:center;
+  }
